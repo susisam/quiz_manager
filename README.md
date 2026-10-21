@@ -1,5 +1,5 @@
 Live Classroom Quiz Engine
-A database-less live quiz server for 100 to 200 students. It runs on the invigilator's laptop and gives students a public link through a Cloudflare tunnel, so they can join from any network (school Wi-Fi, mobile data, hotspots). Students need nothing installed, just a browser.
+A database-less live quiz server for upto 200 students. It runs on the invigilator's laptop and gives students a public link through a Cloudflare tunnel, so they can join from any network (school Wi-Fi, mobile data, hotspots). Students need nothing installed, just a browser.
 Features
 Public join link and terminal QR code, created automatically on startup
 Students log in with Roll Number and Name and wait in a lobby until approved
